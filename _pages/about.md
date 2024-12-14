@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a postdoctoral researcher at [LINK Lab](https://link.soc.northwestern.edu/about-us/) at Northwestern University and an affiliated postdoctoral researcher at the [Computational Social Science Lab](https://www.hfp.tum.de/css/startseite/) at the Technical University of Munich. 
+I'm a postdoctoral researcher at [LINK Lab](https://link.soc.northwestern.edu/about-us/) at Northwestern University and an affiliated postdoctoral researcher at the [Computational Social Science Lab](https://www.hfp.tum.de/css/startseite/) at the Technical University of Munich, where I received my Ph.D. in 2024. 
 
-focusing on the impact of AI on misinformation in science. She also conducts research on using natural language processing (NLP) for violence detection and mental health. Miriam holds a Ph.D. in Computational Social Science from the Technical University of Munich. Her academic background is multidisciplinary, with undergraduate degrees in Psychology, Political Science, and History, along with a master’s degree in Criminology.
+focusing on the impact of AI on misinformation in science. She also conducts research on using natural language processing (NLP) for violence detection and mental health. Miriam holds a Ph.D. in Computational Social Science from the Technical University of Munich. I hold undergraduate degrees in Psychology, Political Science, and History, and a master’s degree in Criminology.
 
 A data-driven personal website
 ======
