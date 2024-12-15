@@ -1,14 +1,13 @@
 ---
 permalink: /
-title: "Miriam Schirmer"
+title: "Hi, I'm Miriam!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 <br>
-<br>
-Hi, I'm Miriam!
+
 
 I'm a postdoctoral researcher at [LINK Lab](https://link.soc.northwestern.edu/about-us/) at Northwestern University and an affiliated postdoctoral researcher at the [Computational Social Science Lab](https://www.hfp.tum.de/css/startseite/) at the Technical University of Munich, where I received my Ph.D. in 2024. 
 
