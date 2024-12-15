@@ -10,6 +10,7 @@ redirect_from:
 I'm a postdoctoral researcher at [LINK Lab](https://link.soc.northwestern.edu/about-us/) at Northwestern University.
 
 My expertise lies in developing computational approaches to operationalize and understand complex and potentially harmful phenomena, such as **misinformation, violent language, and abuse online**. I do this by applying **Natural Language Processing (NLP)** to analyze large-scale text data, identify patterns, and uncover nuanced insights that inform interventions and policy-making.
+
 I received my Ph.D. from the Technical University of Munich, where I was advised by Jürgen Pfeffer ([Computational Social Science Lab](https://www.hfp.tum.de/css/startseite/)). I hold undergraduate degrees in Psychology, Political Science, and History, and a master’s degree in Criminology.
 
 Updates
