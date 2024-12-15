@@ -28,7 +28,7 @@ Oct 21, 2024
 🎉 I DEFENDED MY PHD! **#PhDone**
 
 Apr 23, 2024      
-🌎 Part 2/2 of my 2024 research stay series: Thanks to **David Jurgens** at **University of Michigan School of Information's** [Blablablab](https://blablablab.si.umich.edu) for welcoming me in Ann Arbor to work on the automated **detection of psychological trauma in text**.
+🌎 Part 2/2 of my 2024 research stay series: Thanks to **David Jurgens** at **University of Michigan School of Information's** [Blablablab](https://blablablab.si.umich.edu) for welcoming me in Ann Arbor to work on automated **detection of psychological trauma in text**.
 
 Feb 13, 2024      
 🌎 Arrived at **University of Cambridge** for part 1/2 of my 2024 research stay series. I'll be working on **LLMs for hate speech detection** with **Petre Breazu** and **Napoleon Katsos** at the department of [Theoretical and Applied Linguistics](https://www.mmll.cam.ac.uk/nk248).
