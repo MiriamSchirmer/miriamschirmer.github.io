@@ -87,4 +87,4 @@ If I were to visit your city, you'd find me exploring a local bookshop for my ne
 
 I'm one of the deputy chairs at [Genocide Alert](https://www.genocide-alert.de/about/), a German human rights organization that advocates for the effective prevention and punishment of grave human rights violations such as genocide and crimes against humanity.
 
-My work and studies have been supported by the [German Academic Scholarship Foundation](https://www.studienstiftung.de/en/), the [German Business Foundation](https://www.sdw.org), and the [Bavarian Research Insitute for Digital Transformation](https://en.bidt.digital).
+My work and studies have been supported by the [German Academic Scholarship Foundation](https://www.studienstiftung.de/en/), the [German Business Foundation](https://www.sdw.org), and the [Bavarian Research Institute for Digital Transformation](https://en.bidt.digital).
