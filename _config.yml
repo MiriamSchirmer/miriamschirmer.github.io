@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Miriam Schirmer"
 title_separator          : "-"
 name                     : &name ""
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "MiriamSchirmer/miriamschirmer.github.io"
 author:
   # Biographic information
   avatar           : "AS_MiriamSchirmer_065 Original Kopie.jpg"
-  name             : "Miriam Schirmer"
+  name             : ""
   pronouns         : # example: "she/her"  
   bio              : ""
   location         : "Chicago / Munich"
