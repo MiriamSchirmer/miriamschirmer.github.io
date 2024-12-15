@@ -24,16 +24,16 @@ Nov 14, 2024
 🌴 I presented my recent paper on [The Language of Trauma](https://aclanthology.org/2024.findings-emnlp.773) at **EMNLP 2024** in Miami. Thanks to all of you who stopped by to discuss!
 
 Nov 1, 2024       
-👩‍🎓 I started my new position as a **postdoc at Northwestern University**. Looking forward to working with Ágnes Horvát and her amazing team!
+👩‍🎓 I started my new position as a **postdoc at Northwestern University's** [LINK Lab](https://link.soc.northwestern.edu/about-us/). Looking forward to working with **Ágnes Horvát** and her amazing team!
 
 Oct 21, 2024      
 🎉 I DEFENDED MY PHD! **#PhDone**
 
 Apr 23, 2024      
-🌎 Part two of my 2024 research stay series: Thanks to **David Jurgens** at **University of Michigan School of Information's** [Blablablab](https://blablablab.si.umich.edu) for welcoming me in Ann Arbor to work on the automated **detection of psychological trauma in text**.
+🌎 Part 2/2 of my 2024 research stay series: Thanks to **David Jurgens** at **University of Michigan School of Information's** [Blablablab](https://blablablab.si.umich.edu) for welcoming me in Ann Arbor to work on the automated **detection of psychological trauma in text**.
 
 Feb 13, 2024      
-🌎 Arrived at **University of Cambridge** for part one of my 2024 research stay series. I'll be working on **LLMs for hate speech detection** with **Petre Breazu** and **Napoleon Katsos** at the department of [Theoretical and Applied Linguistics](https://www.mmll.cam.ac.uk/nk248).
+🌎 Arrived at **University of Cambridge** for part 1/2 of my 2024 research stay series. I'll be working on **LLMs for hate speech detection** with **Petre Breazu** and **Napoleon Katsos** at the department of [Theoretical and Applied Linguistics](https://www.mmll.cam.ac.uk/nk248).
 
 
 
