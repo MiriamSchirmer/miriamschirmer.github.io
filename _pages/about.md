@@ -35,8 +35,8 @@ Publications
   [paper](https://arxiv.org/abs/2408.05126)
 
 - **Investigating the Increase of Violent Speech in Incel Communities with Human-Guided GPT-4 Prompt Iteration**  
-  Matter, D.\*, **Schirmer, M.\***, Grinberg, N., & Pfeffer, J. (2024) 
-  \*Both authors contributed equally to this research.
+  Matter, D.\*, **Schirmer, M.\***, Grinberg, N., & Pfeffer, J. (2024) <br>
+  \*Both authors contributed equally to this research. <br>
   *Frontiers in Social Psychology,* 2, 1383152.  
   [paper](https://doi.org/10.3389/frsps.2024.1383152)  
 
