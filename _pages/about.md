@@ -12,8 +12,6 @@ I'm a postdoctoral researcher at [LINK Lab](https://link.soc.northwestern.edu/ab
 My expertise lies in developing computational approaches to operationalize and understand complex and potentially harmful phenomena, such as **misinformation, violent language, and abuse online**. I do this by applying **Natural Language Processing (NLP)** to analyze large-scale text data, identify patterns, and uncover nuanced insights that inform interventions and policy-making.
 I hold undergraduate degrees in Psychology, Political Science, and History, and a master’s degree in Criminology.
 
-Please reach out if you're interested in collaborating!
-
 Updates
 ------
 
