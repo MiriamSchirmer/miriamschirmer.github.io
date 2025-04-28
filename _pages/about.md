@@ -9,12 +9,20 @@ redirect_from:
 <br>
 I'm a postdoctoral researcher at [LINK Lab](https://link.soc.northwestern.edu/about-us/) at Northwestern University.
 
-My expertise lies in developing computational approaches to operationalize and understand complex and potentially harmful phenomena, such as **misinformation, violent language, and abuse online**. I do this by applying **Natural Language Processing (NLP)** to analyze large-scale text data, identify patterns, and uncover nuanced insights that inform interventions and policy-making.
+My expertise lies in developing computational approaches to analyze complex and potentially harmful phenomena, such as **misinformation, violent language, and abuse online**. I do this by applying **Natural Language Processing (NLP)** to analyze large-scale text data, identify patterns, and uncover insights that inform interventions and policy-making.
 
 I received my Ph.D. from Technical University of Munich, where I was advised by Jürgen Pfeffer ([Computational Social Science Lab](https://www.hfp.tum.de/css/startseite/)). I hold undergraduate degrees in Psychology, Political Science, and History, and a master’s degree in Criminology.
 
+During my PhD, I have also been a visiting researcher at University of Michigan, University of Cambridge, and the Auschwitz Insitute for the Prevention of Mass Atrocities in New York City.
+
 Updates
 ------
+
+April 24, 2025
+📄 New [preprint](https://arxiv.org/abs/2504.13279) on what the overall extent of data on TikTok looks like. Huge dataset of *Just Another Hour on TikTok*.
+
+March, 2025
+👩‍🏫 Two tutorials accepted at [ICWSM](https://www.icwsm.org/2025/index.html) and [IC2S2](https://www.ic2s2-2025.org) on how **AI is impacting misinformation** in science and politic. Check out the tutorial website [here](https://sites.google.com/view/icwsm-tutorial-misinformation/startseite).
 
 Dec 11, 2024      
 📄 Abstract accepted at the [ECPR](https://ecpr.eu/Events/Event/WorkshopDetails/15709) Workshop on **Text-as-Data Analysis in Political Science** with lead author **Sophie Brandt**.
