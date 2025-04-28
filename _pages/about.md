@@ -96,7 +96,7 @@ Publications
 
 Recent Talks
 ------
-- Schirmer, M. (2025, April). *Sharenting and Child Exposure on TikTok.* Text-as-Data ([TaDa](https://sites.google.com/view/polsci-ml-initiative/talks?authuser=0)) Speaker Series.
+- Schirmer, M. (2025, April). *Sharenting and Child Exposure on TikTok.* **Text-as-Data** ([TaDa](https://sites.google.com/view/polsci-ml-initiative/talks?authuser=0)) **Speaker Series**.
 
 - Schirmer, M. (2025, February). *Natural Language Processing for Objectification Detection.* Information Sciences Institute (ISI), **University of Southern California**.
 
