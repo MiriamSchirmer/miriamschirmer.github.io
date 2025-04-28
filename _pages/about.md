@@ -94,20 +94,19 @@ Publications
 
 Talks
 ------
+- Schirmer, M. (2025, April). *Sharenting and Child Exposure on TikTok.* Text-as-Data (TaDa) Speaker Series. [TaDa Initiative.](https://sites.google.com/view/polsci-ml-initiative/talks?authuser=0)
 
-- Schirmer, M. (2025, February – scheduled). *Hatespeech in the Incelverse.* Information Sciences Institute (ISI) Seminar, **University of Southern California**.
+- Schirmer, M. (2025, February). *Natural Language Processing for Objectification Detection.* Information Sciences Institute (ISI), **University of Southern California**.
 
 - Schirmer, M. (2024, May). *Modeling Complex Phenomena Through Language: From Hate Speech to Innovation.* Center for Science of Science & Innovation (CSSI), **Kellog, Northwestern University**.
 
 - Schirmer, M. (2024, April). *Natural Language Processing for Violence Research.* Computational Social Science Seminar, School of Information, **University of Michigan**.
 
-- Giovannini, L., & Schirmer, M. (2023, December). *The Courtroom as Stage: Exploring the Performative Dimension of Genocide Trials.* **Cultural Data Analytics Conference (CUDAN)**. Tallinn, Estonia.
-
 - Schirmer, M., Pfeffer, J., & Kirchmair, T. (2023, September). *Analyzing and Visualizing Criminal Career Trajectories.* **European Conference on Social Networks (EUSN)**. Ljubljana, Slovenia.
 
 - Schirmer, M., & Stewens, P. (2023, July). *Natural Language Processing in Genocide Studies.* **16th Biennial Meeting of the International Association of Genocide Scholars (IAGS)**. Barcelona, Spain.
 
-- Schirmer, M., & Pfeffer, J. (2023, June). *The Genocide Transcript Corpus Revisited.* **Conference of the Research Group International Relations of the German Political Science Association**. Friedrichshafen, Germany.
+- Schirmer, M., & Pfeffer, J. (2023, June). *The Genocide Transcript Corpus.* **Conference of the Research Group International Relations of the German Political Science Association**. Friedrichshafen, Germany.
 
 - Schirmer, M. (2023, March). *Mixed Methods in Genocide Research.* **German Digital Humanities Conference (DHd)**. Trier, Germany.
 
