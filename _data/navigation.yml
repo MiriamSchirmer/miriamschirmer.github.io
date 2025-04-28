@@ -21,8 +21,8 @@ main:
   - title: "About Me"
     url: /#about-me
         
-  #- title: "Blog Posts"
-  #  url: /year-archive/
+  - title: "Data & Code"
+    url: https://github.com/MiriamSchirmer
     
   #- title: "CV"
   #  url: /cv/
