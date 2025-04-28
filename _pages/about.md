@@ -22,7 +22,7 @@ April 24, 2025
 📄 New [preprint](https://arxiv.org/abs/2504.13279) on what the overall extent of data on TikTok looks like. Huge dataset of *Just Another Hour on TikTok*.
 
 March, 2025  
-👩‍🏫 Two tutorials accepted at [ICWSM](https://www.icwsm.org/2025/index.html) and [IC2S2](https://www.ic2s2-2025.org) on how **AI is impacting misinformation** in science and politic. Check out the tutorial website [here](https://sites.google.com/view/icwsm-tutorial-misinformation/startseite).
+👩‍🏫 Two tutorials accepted at [ICWSM](https://www.icwsm.org/2025/index.html) and [IC2S2](https://www.ic2s2-2025.org) on how **AI is impacting misinformation** in science and politics. Check out the tutorial website [here](https://sites.google.com/view/icwsm-tutorial-misinformation/startseite).
 
 Dec 11, 2024      
 📄 Abstract accepted at the [ECPR](https://ecpr.eu/Events/Event/WorkshopDetails/15709) Workshop on **Text-as-Data Analysis in Political Science** with lead author **Sophie Brandt**.
