@@ -18,10 +18,10 @@ During my PhD, I have also been a visiting researcher at University of Michigan,
 Updates
 ------
 
-April 24, 2025
+April 24, 2025  
 📄 New [preprint](https://arxiv.org/abs/2504.13279) on what the overall extent of data on TikTok looks like. Huge dataset of *Just Another Hour on TikTok*.
 
-March, 2025
+March, 2025  
 👩‍🏫 Two tutorials accepted at [ICWSM](https://www.icwsm.org/2025/index.html) and [IC2S2](https://www.ic2s2-2025.org) on how **AI is impacting misinformation** in science and politic. Check out the tutorial website [here](https://sites.google.com/view/icwsm-tutorial-misinformation/startseite).
 
 Dec 11, 2024      
@@ -47,16 +47,20 @@ Feb 13, 2024
 
 Publications
 ------
+- **[Just Another Hour on TikTok: Reverse-Engineering Unique Identifiers to Obtain a Complete Slice of TikTok](https://arxiv.org/abs/2504.13279)**  
+  Steel, B., **Schirmer, M.,** Ruths, D., & Pfeffer, J. (2025)  
+  *arXiv preprint.*
+
+- **[Large Language Models and the Challenge of Analyzing Discriminatory Discourse: Human-AI Synergy in Researching Hate Speech on Social Media](https://www.tandfonline.com/doi/full/10.1080/17447143.2025.2476967)**  
+  Breazu, P., **Schirmer, M.,** Hu, S., & Kastos, N. (2025)  
+  *Journal of Multicultural Discourses,* 1-19.
+
 - **[The Language of Trauma: Modeling Traumatic Event Descriptions Across Domains with Explainable AI](https://aclanthology.org/2024.findings-emnlp.773)**  
   **Schirmer, M.;** Leemann, L., Kasneci, G., Pfeffer, J., & Jurgens, D. (2024)  
   *Findings of the Association for Computational Linguistics: EMNLP 2024,* 13224–13242, Miami, Florida, USA. Association for Computational Linguistics.
 
 - **[More Skin, More Likes! Measuring Child Exposure and User Engagement on TikTok](https://arxiv.org/abs/2408.05622)**  
   **Schirmer, M.,** Voggenreiter, A., & Pfeffer, J. (2024)  
-  *arXiv preprint.*
-
-- **[Large Language Models and Thematic Analysis: Human-AI Synergy in Researching Hate Speech on Social Media](https://arxiv.org/abs/2408.05126)**  
-  Breazu, P., **Schirmer, M.,** Hu, S., & Kastos, N. (2024)  
   *arXiv preprint.*
 
 - **[Investigating the Increase of Violent Speech in Incel Communities with Human-Guided GPT-4 Prompt Iteration](https://doi.org/10.3389/frsps.2024.1383152)**  
