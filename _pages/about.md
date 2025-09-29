@@ -59,7 +59,7 @@ Feb 13, 2024
 Publications
 ------
 - **[Detecting Child Objectification on Social Media: Challenges in Language Modeling](https://aclanthology.org/2025.woah-1.36/)**  
-  **Schirmer, M.,**  Voggenreiter, A., Pfeffer, J., & Horvát, E.-Á. (2025)
+  **Schirmer, M.,**  Voggenreiter, A., Pfeffer, J., & Horvát, E.-Á. (2025)  
   *Proceedings of the The 9th Workshop on Online Abuse and Harms (WOAH)*, pages 396–412, Vienna, Austria. Association for Computational Linguistics.
 
 - **[Disparities by design: Toward a research agenda that links science misinformation and socioeconomic marginalization in the age of AI](https://misinforeview.hks.harvard.edu/article/disparities-by-design-toward-a-research-agenda-that-links-science-misinformation-and-socioeconomic-marginalization-in-the-age-of-ai/#0)**  
