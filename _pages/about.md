@@ -111,8 +111,14 @@ Publications
 
 ------
 
-Recent Talks
+Talks
 ------
+- Schirmer, M. (2025, November). *Natural Language Processing for Trauma Detection.* **Human Rights Center, UC Berkeley**.
+
+- Schirmer, M. (2025, October). *Natural Language Processing for Harm Detection and Mitigation.* **CCEW Online Speaker Series**, University of the Bundeswehr Munich.
+
+- Schirmer, M. (2025, July). *Understanding and Reducing the Psychological Impact of Online Harm.* **MilaNLP Seminar, Bocconi University**.
+
 - Schirmer, M. (2025, April). *Sharenting and Child Exposure on TikTok.* **Text-as-Data** ([TaDa](https://sites.google.com/view/polsci-ml-initiative/talks?authuser=0)) **Speaker Series**.
 
 - Schirmer, M. (2025, February). *Natural Language Processing for Objectification Detection.* Information Sciences Institute (ISI), **University of Southern California**.
