@@ -25,7 +25,7 @@ August, 2025
 🎡 I presented my new paper on [Detecting Child Objectification on Social Media](https://aclanthology.org/2025.woah-1.36/) at **WOAH** @ **ACL 2025** in Vienna.
 
 July, 2025  
-📄 New [commentary](https://misinforeview.hks.harvard.edu/article/disparities-by-design-toward-a-research-agenda-that-links-science-misinformation-and-socioeconomic-marginalization-in-the-age-of-ai/) published in the **Harvard Kennedy School Misinformation Review** on the need to establish a **research agenda that links science misinformation and socieoeconomic marginalization in the age of AI**.
+📄 New [commentary](https://misinforeview.hks.harvard.edu/article/disparities-by-design-toward-a-research-agenda-that-links-science-misinformation-and-socioeconomic-marginalization-in-the-age-of-ai/) published in the **Harvard Kennedy School Misinformation Review** on the need to establish a research agenda that links science misinformation and socieoeconomic marginalization in the age of AI.
 
 June-July, 2025  
 🌎 I spent a great summer traveling Europe for conferences to present a [tutorial on AI and misinformation](https://sites.google.com/view/ic2s2-misinformation-and-ai/startseite) (@ [ICWSM](https://www.icwsm.org/2025/index.html) and [IC2S2](https://www.ic2s2-2025.org)).
