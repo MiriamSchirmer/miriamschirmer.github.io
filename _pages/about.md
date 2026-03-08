@@ -33,9 +33,9 @@ Selected Publications
 
 {% assign featured_pubs = site.data.publications | where: "featured", true %}
 {% for pub in featured_pubs %}
-- **[{{ pub.title }}]({{ pub.url }})**
-  {{ pub.authors }} ({{ pub.year }}){% if pub.note %}
-  *{{ pub.note }}*{% endif %}
+- **[{{ pub.title }}]({{ pub.url }})**<br>
+  {{ pub.authors }} ({{ pub.year }})<br>
+  {% if pub.note %}*{{ pub.note }}*<br>{% endif %}
   {{ pub.venue }}
 {% endfor %}
 

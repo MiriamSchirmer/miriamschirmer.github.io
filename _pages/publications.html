@@ -14,8 +14,8 @@ author_profile: true
 {% for pub in site.data.publications %}
 <p>
   <strong><a href="{{ pub.url }}">{{ pub.title }}</a></strong><br>
-  {{ pub.authors | markdownify | remove: '<p>' | remove: '</p>' }} ({{ pub.year }})<br>
+  {{ pub.authors | markdownify | remove: '<p>' | remove: '</p>' | strip }} ({{ pub.year }})<br>
   {% if pub.note %}<em>{{ pub.note }}</em><br>{% endif %}
-  {{ pub.venue | markdownify | remove: '<p>' | remove: '</p>' }}
+  {{ pub.venue | markdownify | remove: '<p>' | remove: '</p>' | strip }}
 </p>
 {% endfor %}
