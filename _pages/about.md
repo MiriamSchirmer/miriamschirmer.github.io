@@ -18,40 +18,12 @@ During my PhD, I have been a visiting researcher at **University of Michigan**, 
 Updates
 ------
 
-Oct, 2025  
-🎯 I'll be attending the second part of the [GSO Acacemic Leadership Academy](https://gsonet.org/funding-programs/leadership-academy/?lang=en) in Heidelberg. Looking forward to reconnecting with everyone!
+{% for update in site.data.updates limit:5 %}
+{{ update.date }}
+{{ update.content }}
 
-Aug 1, 2025  
-🎡 I presented my new paper on [Detecting Child Objectification on Social Media](https://aclanthology.org/2025.woah-1.36/) at **WOAH** @ **ACL 2025** in Vienna.
-
-Jul 17, 2025  
-📄 New [commentary](https://misinforeview.hks.harvard.edu/article/disparities-by-design-toward-a-research-agenda-that-links-science-misinformation-and-socioeconomic-marginalization-in-the-age-of-ai/) published in the **Harvard Kennedy School Misinformation Review** on the need to establish a research agenda that links science misinformation and socieoeconomic marginalization in the age of AI.
-
-June-July, 2025  
-🌎 I spent a great summer traveling Europe for conferences to present a [tutorial on AI and misinformation](https://sites.google.com/view/ic2s2-misinformation-and-ai/startseite) (@ [ICWSM](https://www.icwsm.org/2025/index.html) and [IC2S2](https://www.ic2s2-2025.org)).
-
-April 24, 2025  
-📄 New [preprint](https://arxiv.org/abs/2504.13279) on what the overall extent of data on TikTok looks like. Huge dataset of **Just Another Hour on TikTok**.
-
-Dec 11, 2024      
-📄 Abstract accepted at the [ECPR](https://ecpr.eu/Events/Event/WorkshopDetails/15709) Workshop on **Text-as-Data Analysis in Political Science** with lead author **Sophie Brandt**.
-
-Nov 14, 2024      
-🌴 I presented my recent paper on [The Language of Trauma](https://aclanthology.org/2024.findings-emnlp.773) at **EMNLP 2024** in Miami. Thanks to all of you who stopped by to discuss!
-
-Nov 1, 2024       
-👩‍🎓 I started my new position as a **postdoc at Northwestern University's** [LINK Lab](https://link.soc.northwestern.edu/about-us/). Looking forward to working with **Ágnes Horvát** and her amazing team!
-
-Oct 21, 2024      
-🎉 I DEFENDED MY PHD! **#PhDone**
-
-Apr 23, 2024      
-🌎 Part 2/2 of my 2024 research stay series: Thanks to **David Jurgens** at **University of Michigan School of Information's** [Blablablab](https://blablablab.si.umich.edu) for welcoming me in Ann Arbor to work on automated **detection of psychological trauma in text**.
-
-Feb 13, 2024      
-🌎 Arrived at **University of Cambridge** for part 1/2 of my 2024 research stay series. I'll be working on **LLMs for hate speech detection** with **Petre Breazu** and **Napoleon Katsos** at the department of [Theoretical and Applied Linguistics](https://www.mmll.cam.ac.uk/nk248).  
-
-...
+{% endfor %}
+[...](/updates/)
 
 
 
