@@ -45,29 +45,12 @@ Selected Publications
 
 Talks
 ------
-- Schirmer, M. (2025, November). *Natural Language Processing for Trauma Detection.* **Human Rights Center, UC Berkeley**.
 
-- Schirmer, M. (2025, October). *Natural Language Processing for Harm Detection and Mitigation.* **CCEW Online Speaker Series**, University of the Bundeswehr Munich.
+{% for talk in site.data.talks limit:5 %}
+- {{ talk.authors }} ({{ talk.date }}). *{{ talk.title }}.* {{ talk.venue }}.
+{% endfor %}
 
-- Schirmer, M. (2025, July). *Understanding and Reducing the Psychological Impact of Online Harm.* **MilaNLP Seminar, Bocconi University**.
-
-- Schirmer, M. (2025, April). *Sharenting and Child Exposure on TikTok.* **Text-as-Data** ([TaDa](https://sites.google.com/view/polsci-ml-initiative/talks?authuser=0)) **Speaker Series**.
-
-- Schirmer, M. (2025, February). *Natural Language Processing for Objectification Detection.* Information Sciences Institute (ISI), **University of Southern California**.
-
-- Schirmer, M. (2024, May). *Modeling Complex Phenomena Through Language: From Hate Speech to Innovation.* Center for Science of Science & Innovation (CSSI), **Kellog, Northwestern University**.
-
-- Schirmer, M. (2024, April). *Natural Language Processing for Violence Research.* Computational Social Science Seminar, School of Information, **University of Michigan**.
-
-- Schirmer, M., Pfeffer, J., & Kirchmair, T. (2023, September). *Analyzing and Visualizing Criminal Career Trajectories.* **European Conference on Social Networks (EUSN)**. Ljubljana, Slovenia.
-
-- Schirmer, M., & Stewens, P. (2023, July). *Natural Language Processing in Genocide Studies.* **16th Biennial Meeting of the International Association of Genocide Scholars (IAGS)**. Barcelona, Spain.
-
-- Schirmer, M., & Pfeffer, J. (2023, June). *The Genocide Transcript Corpus.* **Conference of the Research Group International Relations of the German Political Science Association**. Friedrichshafen, Germany.
-
-- Schirmer, M. (2023, March). *Mixed Methods in Genocide Research.* **German Digital Humanities Conference (DHd)**. Trier, Germany.
-
-...
+[...](/talks/)
 
 
 About Me
