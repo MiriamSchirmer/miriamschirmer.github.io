@@ -9,7 +9,7 @@
   url: "https://www.beltz.de/fachmedien/sozialpaedagogik_soziale_arbeit/zeitschriften/sozialmagazin/artikel/57613-gender-studies-und-genozid.html"
   authors: "**Schirmer, M.,**, Blome, N., Stewens, P., & Neuber, E."
   year: 2025
-  venue: "*Sozialmagazin, 10, 14-20*."
+  venue: "*Sozialmagazin, 10,* 14-20."
   featured: false
 
 - title: "Detecting Child Objectification on Social Media: Challenges in Language Modeling"
@@ -63,10 +63,9 @@
 
 - title: "Investigating the Increase of Violent Speech in Incel Communities with Human-Guided GPT-4 Prompt Iteration"
   url: "https://doi.org/10.3389/frsps.2024.1383152"
-  authors: "Matter, D.\\*, **Schirmer, M.\\*,** Grinberg, N., & Pfeffer, J."
+  authors: "Matter, D.\\*, **Schirmer, M.\\*,** Grinberg, N., & Pfeffer, J. - \\*Both authors contributed equally to this research."
   year: 2024
   venue: "*Frontiers in Social Psychology,* 2, 1383152."
-  note: "\\*Both authors contributed equally to this research."
   featured: true
 
 - title: "GENTRAC: A Tool for Tracing Trauma in Genocide and Mass Atrocity Court Transcripts"
