@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% for update in site.data.updates %}
-{{ update.date }}
+{{ update.date }}<br>
 {{ update.content }}
 
 {% endfor %}

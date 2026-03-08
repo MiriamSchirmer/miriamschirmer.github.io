@@ -19,7 +19,7 @@ Updates
 ------
 
 {% for update in site.data.updates limit:5 %}
-{{ update.date }}
+{{ update.date }}<br>
 {{ update.content }}
 
 {% endfor %}
