@@ -35,7 +35,6 @@ Selected Publications
 {% for pub in featured_pubs %}
 - **[{{ pub.title }}]({{ pub.url }})**<br>
   {{ pub.authors }} ({{ pub.year }})<br>
-  {% if pub.note %}*{{ pub.note }}*<br>{% endif %}
   {{ pub.venue }}
 {% endfor %}
 
