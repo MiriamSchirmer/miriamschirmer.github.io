@@ -28,7 +28,7 @@ Updates
 
 
 
-Publications
+Selected Publications
 ------
 
 {% assign featured_pubs = site.data.publications | where: "featured", true %}
