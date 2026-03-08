@@ -22,7 +22,7 @@ My research sits at the intersection of **computational social science**, **natu
 
 **PhD applicants**: I am currently not hiring PhD students. If you think your research interests align closely with mine, feel free to reach out and we can explore options.
 
-**Postdocs and visiting researchers**: I am currently not hiring postocs. I am happy to discuss potential collaborations on shared research interests.
+**Postdocs and visiting researchers**: I am currently not hiring postdocs. I am happy to discuss potential collaborations on shared research interests.
 
 ## How to Reach Out
 

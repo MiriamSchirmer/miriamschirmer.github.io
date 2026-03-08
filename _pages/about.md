@@ -13,7 +13,7 @@ I develop computational approaches to analyze potentially harmful phenomena in t
 
 I received my PhD from **Technical University of Munich** ([Computational Social Science Lab](https://www.hfp.tum.de/css/startseite/)). I hold three undergraduate degrees in Psychology, Political Science, and History, and a master’s degree in Criminology.
 
-During my PhD, I have been a visiting researcher at **University of Michigan**, **University of Cambridge**, and the **Auschwitz Insitute** for the Prevention of Mass Atrocities in New York City.
+During my PhD, I have been a visiting researcher at **University of Michigan**, **University of Cambridge**, and the **Auschwitz Institute** for the Prevention of Mass Atrocities in New York City.
 
 Updates
 ------
