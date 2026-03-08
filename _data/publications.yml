@@ -1,0 +1,84 @@
+- title: "Detecting Child Objectification on Social Media: Challenges in Language Modeling"
+  url: "https://aclanthology.org/2025.woah-1.36/"
+  authors: "**Schirmer, M.,** Voggenreiter, A., Pfeffer, J., & Horvát, E.-Á."
+  year: 2025
+  venue: "*Proceedings of the 9th Workshop on Online Abuse and Harms (WOAH)*, pages 396–412, Vienna, Austria. Association for Computational Linguistics."
+  featured: true
+
+- title: "Disparities by design: Toward a research agenda that links science misinformation and socioeconomic marginalization in the age of AI"
+  url: "https://misinforeview.hks.harvard.edu/article/disparities-by-design-toward-a-research-agenda-that-links-science-misinformation-and-socioeconomic-marginalization-in-the-age-of-ai/#0"
+  authors: "**Schirmer, M.,** Walter, N., & Horvát, E.-Á."
+  year: 2025
+  venue: "*Harvard Kennedy School Misinformation Review*."
+  featured: true
+
+- title: "Just Another Hour on TikTok: Reverse-Engineering Unique Identifiers to Obtain a Complete Slice of TikTok"
+  url: "https://arxiv.org/abs/2504.13279"
+  authors: "Steel, B., **Schirmer, M.,** Ruths, D., & Pfeffer, J."
+  year: 2025
+  venue: "*arXiv preprint.*"
+  featured: true
+
+- title: "Large Language Models and the Challenge of Analyzing Discriminatory Discourse: Human-AI Synergy in Researching Hate Speech on Social Media"
+  url: "https://www.tandfonline.com/doi/full/10.1080/17447143.2025.2476967"
+  authors: "Breazu, P., **Schirmer, M.,** Hu, S., & Kastos, N."
+  year: 2025
+  venue: "*Journal of Multicultural Discourses,* 1-19."
+  featured: true
+
+- title: "The Language of Trauma: Modeling Traumatic Event Descriptions Across Domains with Explainable AI"
+  url: "https://aclanthology.org/2024.findings-emnlp.773"
+  authors: "**Schirmer, M.;** Leemann, L., Kasneci, G., Pfeffer, J., & Jurgens, D."
+  year: 2024
+  venue: "*Findings of the Association for Computational Linguistics: EMNLP 2024,* 13224–13242, Miami, Florida, USA. Association for Computational Linguistics."
+  featured: true
+
+- title: "More Skin, More Likes! Measuring Child Exposure and User Engagement on TikTok"
+  url: "https://arxiv.org/abs/2408.05622"
+  authors: "**Schirmer, M.,** Voggenreiter, A., & Pfeffer, J."
+  year: 2024
+  venue: "*arXiv preprint.*"
+  featured: true
+
+- title: "Investigating the Increase of Violent Speech in Incel Communities with Human-Guided GPT-4 Prompt Iteration"
+  url: "https://doi.org/10.3389/frsps.2024.1383152"
+  authors: "Matter, D.\\*, **Schirmer, M.\\*,** Grinberg, N., & Pfeffer, J."
+  year: 2024
+  venue: "*Frontiers in Social Psychology,* 2, 1383152."
+  note: "\\*Both authors contributed equally to this research."
+  featured: true
+
+- title: "GENTRAC: A Tool for Tracing Trauma in Genocide and Mass Atrocity Court Transcripts"
+  url: "https://aclanthology.org/2024.lrec-main.677"
+  authors: "**Schirmer, M.,** Brechenmacher, C., & Pfeffer, J."
+  year: 2024
+  venue: "*Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024),* 7666–7671, Torino, Italy."
+  featured: true
+
+- title: "Talking about Torture: A Novel Approach to the Mixed Methods Analysis of Genocide-Related Witness Statements in the Khmer Rouge Tribunal"
+  url: "https://doi.org/10.1177/15586898231218463"
+  authors: "**Schirmer, M.,** Pfeffer, J., & Hilbert, S."
+  year: 2023
+  venue: "*Journal of Mixed Methods Research,* 0(0), 1–20."
+  featured: true
+
+- title: "Uncovering Trauma in Genocide Tribunals: An NLP Approach Using the Genocide Transcript Corpus"
+  url: "https://doi.org/10.1145/3594536.3595147"
+  authors: "**Schirmer, M.,** Nolasco, I. M. O., Mosca, E., Xu, S., & Pfeffer, J."
+  year: 2023
+  venue: "*Proceedings of the Nineteenth International Conference on Artificial Intelligence and Law (ICAIL),* 257–266."
+  featured: true
+
+- title: "Personalized Therapy in Rheumatoid Arthritis (PETRA): A protocol for a Randomized Controlled Trial to Test the Effect of a Psychological Intervention in Rheumatoid Arthritis"
+  url: "https://doi.org/10.1186/s13063-023-07707-0"
+  authors: "Seizer, L., Huber, E., **Schirmer, M.,** Hilbert, S., Wiest, E. M., & Schubert, C."
+  year: 2023
+  venue: "*Trials,* 24, 743."
+  featured: true
+
+- title: "A New Dataset for Topic-Based Paragraph Classification in Genocide-Related Court Transcripts"
+  url: "https://aclanthology.org/2022.lrec-1.479"
+  authors: "**Schirmer, M.,** Kruschwitz, U., & Donabauer, G."
+  year: 2022
+  venue: "*Proceedings of the Language Resources and Evaluation Conference (LREC),* 504–4512."
+  featured: true

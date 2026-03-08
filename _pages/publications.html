@@ -6,31 +6,16 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+<div class="wordwrap">You can also find my articles on <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-{% include base_path %}
+<br>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
-
-
+{% for pub in site.data.publications %}
+<p>
+  <strong><a href="{{ pub.url }}">{{ pub.title }}</a></strong><br>
+  {{ pub.authors | markdownify | remove: '<p>' | remove: '</p>' }} ({{ pub.year }})<br>
+  {% if pub.note %}<em>{{ pub.note }}</em><br>{% endif %}
+  {{ pub.venue | markdownify | remove: '<p>' | remove: '</p>' }}
+</p>
+{% endfor %}
