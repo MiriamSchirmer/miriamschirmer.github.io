@@ -9,14 +9,14 @@ redirect_from:
 <br>
 I'm currently a Visiting Postdoc at the [Digital Emotions Lab](https://www.amitgoldenberg.com) at Harvard Business School.
 
-I develop computational approaches to analyze potentially harmful content online, such as **violent language and abusive behavior**. I analyze large-scale text data with **Natural Language Processing (NLP)**, identify patterns, and combine these with **experimental studies** to see how we can connect results from language models with real-world behavior. 
+I develop computational approaches to analyze harmful content online, such as **violent language or abusive behavior**. I analyze large-scale text data with **Natural Language Processing (NLP)**, identify patterns, and combine these with **experimental studies** to see how we can connect results from language models with real-world behavior. 
 
 My current projects focus on 
 - understanding how people interact with information that attacks scientists online, 
 - child safety on TikTok, and
 - validating online harm detection with psychological assessment (for instance, if we detect hate speech, do people actually feel bad when they read it?)
 
-I was previously a postdoctoral researcher at [LINK Lab](https://link.soc.northwestern.edu/about-us/) at **Northwestern University***.
+I was previously a postdoctoral researcher at [LINK Lab](https://link.soc.northwestern.edu/about-us/) at **Northwestern University**.
 I received my PhD from **Technical University of Munich** ([Computational Social Science Lab](https://www.hfp.tum.de/css/startseite/)). I hold three undergraduate degrees in Psychology, Political Science, and History, and a master’s degree in Criminology.
 
 I have been a visiting researcher at **University of Michigan**, **University of Cambridge**, and the **Auschwitz Institute** for the Prevention of Mass Atrocities in New York City.
