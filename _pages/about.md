@@ -12,9 +12,11 @@ I'm an Assistant Professor (Juniorprofessorin) at University of Konstanz.
 I develop computational approaches to analyze harmful content online, such as **violent language or abusive behavior**. I analyze large-scale text data with **Natural Language Processing (NLP)**, identify patterns, and combine these with **experimental studies** to see how we can connect results from language models with real-world behavior. 
 
 My current projects focus on: 
-- understanding how people interact with information that attacks scientists online, 
-- child safety on TikTok, and
 - validating online harm detection with psychological assessment (for instance, if we detect hate speech, do people actually feel bad when they read it?)
+- understanding how people perceive and react to online attacks on scientists
+- tracking how hate speech moves from fringe to more mainstream communities
+- child safety on TikTok and AI companions for children and adolescents
+
 
 I was previously a visiting postdoc at the [Digital Emotions Lab](https://www.amitgoldenberg.com) at **Harvard Business School** and a postdoctoral researcher at [LINK Lab](https://link.soc.northwestern.edu/about-us/) at **Northwestern University**.
 I received my PhD from **Technical University of Munich** ([Computational Social Science Lab](https://www.hfp.tum.de/css/startseite/)). I hold three undergraduate degrees in Psychology, Political Science, and History, and a master's degree in Criminology.
